@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "40327261040",
+    "project_id": "debut-45db2",
+    "storage_bucket": "debut-45db2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40327261040:android:352790ebc157a88968fdb5",
+        "android_client_info": {
+          "package_name": "com.example.debut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40327261040-dqdtqc91vfgfdkh21sqv5gptn8qorh0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Gta0GJTGWqAk7tA-TBUP7q8-ZoRy4wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40327261040-dqdtqc91vfgfdkh21sqv5gptn8qorh0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40327261040-hge0dlnbjj5up8qoip5accqobduess1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.debut"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
